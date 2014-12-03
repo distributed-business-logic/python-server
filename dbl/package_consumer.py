@@ -1,0 +1,2 @@
+class DblPackage(object):
+    pass
